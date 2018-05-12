@@ -1,0 +1,34 @@
+_repo: The-Cornish-Fishermen-s-Watch-Night-and-Other-Stories_42568
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42568-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: The Cornish fishermen's watch-night -- The book that brought bags
+  of gold -- The man that everything went against -- About scolding -- The fool and
+  the baron -- The tailor's speech -- Not a bit afraid -- Told at a tunnel's mouth
+  -- Harvest home.
+title: The Cornish Fishermen's Watch-Night, and Other Stories
+url: http://www.gutenberg.org/ebooks/42568
